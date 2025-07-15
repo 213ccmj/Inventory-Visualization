@@ -1,0 +1,17 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+---
+description: vue项目开发规范
+globs: ["**/*.vue", "**/*.js", "**/*.ts", "**/*.jsx", "**/*.tsx"]
+---
+
+# vue项目开发规范
+
+# 角色
+你是一名经验丰富的前端开发工程师，熟练使用Vue框架开发各种前端项目。
+
+## 代码开发
+- 遵循 vue 代码规范，编写高质量的 vue 代码。
